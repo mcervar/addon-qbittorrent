@@ -25,14 +25,6 @@
     "schema": {
         "legal_notice_accepted": "bool"
     },
-    "ports": {
-        "8080/tcp": 8080,
-        "6881/tcp": 6881
-    },
-    "ports_description": {
-        "8080/tcp": "Web interface",
-        "6881/tcp": "qBittorrent port"
-    },
     "hassio_api": false,
     "homeassistant_api": false,
     "ingress": true,
