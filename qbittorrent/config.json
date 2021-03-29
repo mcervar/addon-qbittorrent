@@ -35,6 +35,8 @@
     },
     "hassio_api": false,
     "homeassistant_api": false,
+    "ingress": true,
+    "ingress_port": 8080
     "host_network": false
   }
   
